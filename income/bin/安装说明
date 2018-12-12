@@ -1,0 +1,8 @@
+step1:确保你的电脑安装过mysql服务器
+step2:运行com.iss.ui.InitDatabase   
+      输入你的电脑的数据配置信息，初始化数据库
+step3:修改c3p0.properties
+     将你的数据库信息配置在c3p0.properties中
+step4:然后运行com.iss.Login
+ 用户名：admin    user guest
+ 密码都是：admin
